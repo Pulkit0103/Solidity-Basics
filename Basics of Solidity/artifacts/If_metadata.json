@@ -1,0 +1,78 @@
+{
+	"compiler": {
+		"version": "0.8.20+commit.a1b79de6"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"name": "arr",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "count",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Basics of Solidity/IfElse.sol": "If"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Basics of Solidity/IfElse.sol": {
+			"keccak256": "0x2d73e8792eb0f11369d7e2c0fcf3a34dfc9d85e5d075b50828576c90944f5dce",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://900312febfa4e4028890d38888e098db6672d2716ad31fcdcf8c9be4c27ec3bb",
+				"dweb:/ipfs/QmWzTfrBRu5wTzD4ohTUkWxhoaXrWcXXiYZRoL8QH9dULP"
+			]
+		}
+	},
+	"version": 1
+}

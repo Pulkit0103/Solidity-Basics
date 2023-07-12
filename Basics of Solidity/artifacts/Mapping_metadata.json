@@ -18,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"Basics of Solidity/Struct.sol": "local"
+			"Basics of Solidity/Mapping.sol": "Mapping"
 		},
 		"evmVersion": "paris",
 		"libraries": {},
@@ -32,12 +32,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"Basics of Solidity/Struct.sol": {
-			"keccak256": "0x00c48529ca0d907e24e98f8c0f071f1effc2deea639a4bce92c2895821af20cc",
+		"Basics of Solidity/Mapping.sol": {
+			"keccak256": "0xa73522559b76b941d70605bd5b5157f3330984bc90d3ff45b1af1bc93fa481fa",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://38a9aeb736b3e6fb0e0e72998b304c0a29b60e9b79675ab7c74c625abe1e5e3c",
-				"dweb:/ipfs/QmVd9UzjRSHz5oH9vbNeaWPhTMbMuKhT3KZ2yFRvUc78Ji"
+				"bzz-raw://e69459ee236ed965181240b5683a60a4e3ccd5920b2e44246fa78e50d698dd36",
+				"dweb:/ipfs/QmTjiTbYVMXbvhMJp26sz81ammmbpoyZsKEaVdPEarqcTe"
 			]
 		}
 	},

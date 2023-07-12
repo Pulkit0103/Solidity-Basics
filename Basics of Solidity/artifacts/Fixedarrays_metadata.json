@@ -1,6 +1,6 @@
 {
 	"compiler": {
-		"version": "0.8.18+commit.87f61d96"
+		"version": "0.8.20+commit.a1b79de6"
 	},
 	"language": "Solidity",
 	"output": {
@@ -18,9 +18,9 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"Basics of Solidity/Struct.sol": "local"
+			"Basics of Solidity/ByteArrays.sol": "Fixedarrays"
 		},
-		"evmVersion": "paris",
+		"evmVersion": "shanghai",
 		"libraries": {},
 		"metadata": {
 			"bytecodeHash": "ipfs"
@@ -32,12 +32,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"Basics of Solidity/Struct.sol": {
-			"keccak256": "0x00c48529ca0d907e24e98f8c0f071f1effc2deea639a4bce92c2895821af20cc",
+		"Basics of Solidity/ByteArrays.sol": {
+			"keccak256": "0xfb52927b61be079cdf2b3de5adc6b276ce7da8e332e914e411d748dccee4357b",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://38a9aeb736b3e6fb0e0e72998b304c0a29b60e9b79675ab7c74c625abe1e5e3c",
-				"dweb:/ipfs/QmVd9UzjRSHz5oH9vbNeaWPhTMbMuKhT3KZ2yFRvUc78Ji"
+				"bzz-raw://f8057946a03aa57f8dc3d13e957b32560d3af077e038c37ef96a892f261f27d5",
+				"dweb:/ipfs/QmTE8XRKWeDZwNUrmjsqp9q8ddC824raiSPCnFJ2FiP7AQ"
 			]
 		}
 	},

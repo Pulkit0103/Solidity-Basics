@@ -18,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"Basics of Solidity/Struct.sol": "local"
+			"Basics of Solidity/Mapping.sol": "Enums"
 		},
 		"evmVersion": "paris",
 		"libraries": {},
@@ -32,12 +32,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"Basics of Solidity/Struct.sol": {
-			"keccak256": "0x00c48529ca0d907e24e98f8c0f071f1effc2deea639a4bce92c2895821af20cc",
+		"Basics of Solidity/Mapping.sol": {
+			"keccak256": "0x3a88c88f588d1da4a04f82f9d322967e952ce21d9a29489c1618b193e141b16a",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://38a9aeb736b3e6fb0e0e72998b304c0a29b60e9b79675ab7c74c625abe1e5e3c",
-				"dweb:/ipfs/QmVd9UzjRSHz5oH9vbNeaWPhTMbMuKhT3KZ2yFRvUc78Ji"
+				"bzz-raw://cae93df772a960a81d58be1e8c888a82815f7d3f488a3daec34cf001fb3035a4",
+				"dweb:/ipfs/Qmc6kvhuSqSPYZtuA1gef2vTe53cyPRTMEMAkzUgyMLsXd"
 			]
 		}
 	},
